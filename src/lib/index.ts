@@ -126,6 +126,8 @@ export const FilterConsumer = FilterContext.Consumer
 export function useFilterContext<Values>() {
    const filter = useContext<FilterContextType<Values>>(FilterContext)
 
+   console.log(filter)
+
    if (!filter) {
       throw new Error(
          'Filter cannot be undefined, please verify you are calling useFilterContext() as child of a Filter',
