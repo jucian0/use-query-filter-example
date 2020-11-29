@@ -1118,6 +1118,11 @@
     "@types/webpack-sources" "*"
     source-map "^0.6.0"
 
+"@use-form/use-query-filter@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@use-form/use-query-filter/-/use-query-filter-0.0.1.tgz#d36160ab2a58d92b264262b043ca9f061db866dd"
+  integrity sha512-yTL86lOsZ5HyFlHw0Jkb13QD8tYVj7m8vFo9cuyM4Sow4WhLm15T0ykRzngipEHgEc5hleVKTwqgbhH+0uMhug==
+
 "@webassemblyjs/ast@1.9.0":
   version "1.9.0"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/ast/-/ast-1.9.0.tgz#bd850604b4042459a5a41cd7d338cbed695ed964"

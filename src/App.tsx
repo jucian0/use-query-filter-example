@@ -1,5 +1,5 @@
 import React from 'react'
-import { FilterProvider, useFilterContext, useQueryFilter } from './lib'
+import { FilterProvider, useFilterContext, useQueryFilter } from '@use-form/use-query-filter'
 import './styles.css'
 
 
